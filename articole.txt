@@ -1,0 +1,19 @@
+3
+101
+Laptop
+3499.99 15
+Electronice
+Lenovo
+2022
+102
+Telefon
+2199.50 25
+Electronice
+Samsung
+2023
+103
+Imprimanta
+899.75 8
+Birou
+HP
+2021
