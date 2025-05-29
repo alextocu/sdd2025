@@ -1,0 +1,12 @@
+6
+Popescu IT Manager 6000 5 101 4.5
+Ionescu HR Specialist 3500 2 102 3.8
+Vasilescu Finance Analyst 4500 4 103 4.2
+Marinescu IT Developer 5500 3 104 4.1
+Georgescu Marketing Lead 4200 6 105 4.7
+Stefanescu Operations Manager 5800 7 106 4.3
+4
+0 1
+1 2
+2 3
+3 4
