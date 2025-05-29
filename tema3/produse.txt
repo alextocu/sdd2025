@@ -1,0 +1,7 @@
+6
+101 Laptop Electronice Dell 1200 15 4.5
+102 Mouse Accesorii Logitech 80 50 4.2
+103 Tastatura Accesorii Microsoft 120 30 4.0
+104 Monitor Electronice Samsung 300 8 4.7
+105 Casti Audio Sony 250 25 4.3
+106 Telefon Mobile Apple 800 12 4.8
