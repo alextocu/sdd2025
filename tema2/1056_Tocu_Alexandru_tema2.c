@@ -313,3 +313,5 @@ void main() {
     printf("Lista dupa dezalocare:\n");
     afisareListaCirculara(listaCirculara);
 }
+
+// nota 10
