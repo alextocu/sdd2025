@@ -480,3 +480,5 @@ void main() {
     dezalocareAVL(&avl);
     dezalocareGraf(&g);
 }
+
+// nota 10
